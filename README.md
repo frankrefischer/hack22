@@ -39,3 +39,4 @@ From: http://www.cs.nott.ac.uk/~pszrq/data.htm
 Download URL: http://www.cs.nott.ac.uk/~pszrq/files/Nott.zip
 
 Hier im Unterordner `nott` entpackt.
+- Vorsicht: wichtige Angaben zur Aufgabenstellung sind in `data` enthalten
