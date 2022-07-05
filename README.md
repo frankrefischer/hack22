@@ -1,14 +1,14 @@
-# Buzzwords
+# Buzzwords zur Aufgabenstellung
 
 examinations timetabling problems
 
 course timetabling problems
 
-# Code 
+# Code mit Aufgabenbeschreibung
 
 https://github.com/stelloop/CSP_exam_timetabling
 
-# Papers
+# Papers zur Aufgabenstellung
 
 [Modeling and solving university timetabling](https://tel.archives-ouvertes.fr/tel-01273311/document)
 - ein längerer Überblick
