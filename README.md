@@ -1,3 +1,26 @@
+# Buzzwords
+
+examinations timetabling problems
+
+course timetabling problems
+
+# Code 
+
+https://github.com/stelloop/CSP_exam_timetabling
+
+# Papers
+
+[Modeling and solving university timetabling](https://tel.archives-ouvertes.fr/tel-01273311/document)
+- ein längerer Überblick
+- enthält gute Beschreibungen der üblichen Aufgabenstellungen
+
+[Genetic Algorithms, Using JGAP, for the Examinations Timetabling Problem](https://goulassoup.wordpress.com/2011/08/22/genetic-algorithms-using-jgap-for-the-examinations-timetabling-problem/)
+
+[A mixed-integer linear programming algorithm for final exam
+scheduling](https://www.patatconference.org/patat2020/proceedings/papers/32.PATAT_2020_v2_paper_52.pdf)
+
+[An integer linear programming model for a university timetabling problem considering time windows and consecutive periods](https://www.researchgate.net/publication/274711620_An_integer_linear_programming_model_for_a_university_timetabling_problem_considering_time_windows_and_consecutive_periods)
+
 # Nottingham Benchmark Dataset
 
 From: http://www.cs.nott.ac.uk/~pszrq/data.htm
