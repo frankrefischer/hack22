@@ -37,3 +37,5 @@ From: http://www.cs.nott.ac.uk/~pszrq/data.htm
 >|b|800|7896|34265|0.03|23|1550|to|minimise consecutive exams on the same day and overnight.|
 
 Download URL: http://www.cs.nott.ac.uk/~pszrq/files/Nott.zip
+
+Hier im Unterordner `nott` entpackt.
